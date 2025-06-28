@@ -45,13 +45,22 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - Learned to use custom properties for consistent styling
 - Strengthened my responsive design skills with media queries
 
-Useful Resources
-Frontend Mentor Help Center
+## Continued Development
 
-CSS Tricks: A Complete Guide to Flexbox
+- Further explore advanced CSS Grid layouts
+- Practice more with desktop media queries and browser compatibility
+- Improve accessibility and ARIA usage
 
-MDN Web Docs: CSS Grid Layout
-Author
-Frontend Mentor - @abhishek0929
+## Useful Resources
+
+- [Frontend Mentor Help Center](https://www.frontendmentor.io/help)
+- [CSS Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [MDN Web Docs: CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+
+## Author
+
+- Frontend Mentor - [@abhishek0929](https://www.frontendmentor.io/profile/abhishekk0929)
+
+
 
 
